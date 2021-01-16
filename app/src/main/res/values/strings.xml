@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocusAssignment</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
